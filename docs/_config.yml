@@ -4,7 +4,7 @@
 url: "https://iakzs.github.io"
 baseurl: "/mcserver"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2023
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
@@ -18,7 +18,7 @@ useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
+discordInvite: https://discord.gg/Gv644z84TA
 discordServerID: 971896047871873034
 discordChannelID: 1077737829343432745
 
