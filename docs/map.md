@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://iakzs.github.io/mcserver
+tourl: https://iakzs.github.io/mcserver/
 ---
