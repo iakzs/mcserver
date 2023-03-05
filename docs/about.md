@@ -5,14 +5,14 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+Mcserver is a simple, flexible template website for Minecraft servers.
 
-[GitHub](https://github.com/coffeebank/moonrise)
+[GitHub](https://github.com/iakzs/mcserver)
 
 
 # Terms of Use
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+Mcserver by iakzs is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
 
 
 # Privacy Policy
